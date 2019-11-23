@@ -1,1 +1,1 @@
-<h1>Blog System Using Larave</h1>
+<h1>Blog System Using Laravel</h1>
